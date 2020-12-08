@@ -5,7 +5,7 @@ The Mock API has been verified with:
 - pip 18.0
 
 ### DEMO
-[![Video]()](https://youtu.be/gNy5iNGBnAU "DEMO - Click to Watch!")
+[![Video](/demo.png)](https://youtu.be/gNy5iNGBnAU "DEMO - Click to Watch!")
 
 ## Prerequisites
 
